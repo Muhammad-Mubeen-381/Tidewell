@@ -1,0 +1,12 @@
+{
+  "_source": "Figma MCP get_variable_defs, file YmMKWIwfIPGuOQNCxImQiT, node 3:6 (Website - Desktop 1440)",
+  "color/Accent": "#f2a541", "color/Primary": "#0f5c4d", "color/Secondary": "#1b2b34", "color/Background": "#f6f4ee",
+  "color/Surface": "#ffffff", "color/SurfaceMuted": "#ece9df", "color/TextPrimary": "#14201c", "color/TextSecondary": "#55655f",
+  "color/TextOnPrimary": "#ffffff", "color/Border": "#ddd8ca", "color/Success": "#1f7a4d",
+  "space/Space4": 4, "space/Space8": 8, "space/Space12": 12, "space/Space16": 16, "space/Space24": 24, "space/Space32": 32, "space/Space48": 48, "space/Space64": 64, "space/Space96": 96,
+  "radius/RadiusSM": 8, "radius/RadiusMD": 12, "radius/RadiusLG": 20, "radius/RadiusFull": 999,
+  "Display/Display XL": "Inter Bold 64/68", "Heading/H2": "Inter Bold 40/46", "Heading/H3": "Inter Semi Bold 22/28",
+  "Body/Body LG": "Inter Regular 18/28", "Body/Body MD": "Inter Regular 16/24", "Body/Body SM": "Inter Regular 14/20",
+  "Label/Button": "Inter Semi Bold 16/20", "Label/Label": "Inter Medium 14/20", "Label/Eyebrow": "Inter Semi Bold 13/16",
+  "Shadow/Card": "DROP_SHADOW #141F1C14 offset(0,8) blur 24"
+}
