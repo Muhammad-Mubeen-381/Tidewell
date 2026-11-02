@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Design tokens: names and values come from the Figma "Colors" variable collection. */
+:root {
+  --color-primary: #0f5c4d;
+  --color-primary-hover: #0b4a3e;
+  --color-secondary: #1b2b34;
+  --color-background: #f6f4ee;
+  --color-surface: #ffffff;
+  --color-surface-muted: #ece9df;
+  --color-text-primary: #14201c;
+  --color-text-secondary: #55655f;
+  --color-text-on-primary: #ffffff;
+  --color-border: #ddd8ca;
+  --color-accent: #f2a541;
+  --color-focus-ring: #2f7bf0;
+  --color-error: #b3261e;
+  --color-success: #1f7a4d;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 80px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  * { transition: none !important; }
+}
+
+body {
+  margin: 0;
+  background: var(--color-background);
+  color: var(--color-text-primary);
+  font-family: 'Inter', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
